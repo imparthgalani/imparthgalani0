@@ -5,7 +5,7 @@
 <a href="https://twitter.com/parthGalani2">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/parth-galani-0a022019b">
+<a href="https://linkedin.com/in/imthepg">
   <img align="left" alt="Parth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/iamparthgalani">
@@ -35,7 +35,7 @@
 
 
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
-[![Linkedin: parth-galani-](https://img.shields.io/badge/-parthgalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/parth-galani-0a022019b/)
+[![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
 [![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/iamparthgalani)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.dx.am-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.dx.am/)
 
