@@ -30,7 +30,7 @@
 - 💬 Ask me about UI Design or any Design tools related stuff.
 - 📫 How to reach me: [Twitter - @parthGalani2](https://twitter.com/parthGalani2) , [Youtube - @Uiex design](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 5 hours listening songs & Movie everyday.
+- ⚡ Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
 
 
 
