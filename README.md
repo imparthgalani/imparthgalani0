@@ -34,16 +34,12 @@
 
 
 
-___ 
-### 𒆜 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 : 
-<br>
-
 [![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/iamparthgalani)
 [![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.dx.am-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.dx.am/)
 
-___
+
 ### 𒆜 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞 : 
 <br>
 
