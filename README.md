@@ -1,4 +1,4 @@
-## Hii, I'm [Parth Galani!](http://parthgalani.dx.am) 👋
+## Hello, I'm [Parth Galani!](http://parthgalani.dx.am) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="iamparthgalani" /> </p>
 
