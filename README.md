@@ -35,7 +35,7 @@
 
 
 ___ 
-
+### 𒆜 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 : 
 
 [![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/iamparthgalani)
 [![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
