@@ -33,7 +33,7 @@
 - 🎧 Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
 
 
-___
+
  
 
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
