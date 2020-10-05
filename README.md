@@ -74,5 +74,5 @@ ___
 </div>
 
 <div align="right">
-    <b><a href="#𝐇𝐞𝐥𝐥𝐨-𝐈𝐦-𝐏𝐚𝐫𝐭𝐡-𝐆𝐚𝐥𝐚𝐧𝐢-">↥ Back To Top</a></b>
+    <b><a href="#iamparthgalani">↥ Back To Top</a></b>
 </div>
