@@ -1,6 +1,6 @@
 ## Hello, I'm [Parth Galani!](http://parthgalani.dx.am) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Views&color=blue&style=plastic" alt="iamparthgalani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Profile View's&color=blue&style=plastic" alt="iamparthgalani" /> </p>
 
 <a href="https://twitter.com/parthGalani2">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -56,13 +56,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//visual-studio-code//visual-studio-code.png"></code>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparthgalani&layout=compact" alt="iamparthgalani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamparthgalani&show_icons=true" alt="iamparthgalani" /></p>
 
 <a href="https://github.com/iamparthgalani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparthgalani&theme=dark&hide_langs_below=1" />
-  
+</a>
 <a href="https://github.com/iamparthgalani">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamparthgalani&show_icons=true&theme=dark&line_height=27" alt="Parth's github stats"/>
 </a>
