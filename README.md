@@ -69,6 +69,6 @@ ___
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### ꧁𓊈𒆜🆂🅷🅾🆆 🆂🅾🅼🅴 ❤️ 🅱🆈 🆂🆃🅰🆁🆁🅸🅽🅶 🆂🅾🅼🅴 🅾🅵 🆃🅷🅴 🆁🅴🅿🅾🆂🅸🆃🅾🆁🅸🅴🆂!𒆜𓊉꧂
 
 </div>
