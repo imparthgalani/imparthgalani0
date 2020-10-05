@@ -1,6 +1,6 @@
 ## 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 [𝐏𝐚𝐫𝐭𝐡 𝐆𝐚𝐥𝐚𝐧𝐢!](http://parthgalani.dx.am) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Profile View's&color=blue&style=plastic" alt="iamparthgalani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="iamparthgalani" /> </p>
 
 <a href="https://twitter.com/parthGalani2">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -35,7 +35,7 @@
 
 ___
  
-𒆜
+
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
 [![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
 [![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/iamparthgalani)
