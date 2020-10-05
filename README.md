@@ -1,4 +1,4 @@
-## Hello, I'm [Parth Galani!](http://parthgalani.dx.am) 👋
+## 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 [𝐏𝐚𝐫𝐭𝐡 𝐆𝐚𝐥𝐚𝐧𝐢!](http://parthgalani.dx.am) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Profile View's&color=blue&style=plastic" alt="iamparthgalani" /> </p>
 
@@ -24,17 +24,17 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Mobile Application Design & development.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
+- 📲 I’m currently learning Mobile Application Design & development also Software development with C#.
+- 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
 - 📫 How to reach me: [Twitter - @parthGalani2](https://twitter.com/parthGalani2) , [Youtube - @Uiex design](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
+- 🤵 Pronouns: He/His
+- 🎧 Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
 
 
 ___
-### 📫 𒆜 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧: 𒆜
+### 𒆜 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧: 𒆜
 
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
 [![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
