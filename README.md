@@ -34,7 +34,7 @@
 
 
 ___
-### 📫 Follow Me On:
+### 📫 𒆜 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧: 𒆜
 
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
 [![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
@@ -42,7 +42,7 @@ ___
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.dx.am-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.dx.am/)
 
 ___
-### Languages and Tools Use: 
+### 𒆜 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞: 𒆜 
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -67,7 +67,7 @@ ___
 </a>
 
 
-<div align="left">
+<div align="center">
 
 ### ıllıllı⭐🌟 𝕾𝖍𝖔𝖜 𝖘𝖔𝖒𝖊 ❤️ 𝖇𝖞 𝖘𝖙𝖆𝖗𝖗𝖎𝖓𝖌 𝖘𝖔𝖒𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖗𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖎𝖊𝖘! 🌟⭐ıllıllı
 
