@@ -73,6 +73,3 @@ ___
 
 </div>
 
-<div align="right">
-    <b><a href="https://github.com/iamparthgalani">↥ Back To Top</a></b>
-</div>
