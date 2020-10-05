@@ -74,5 +74,5 @@ ___
 </div>
 
 <div align="right">
-    <b><a href="#iamparthgalani">↥ Back To Top</a></b>
+    <b><a href="https://github.com/iamparthgalani">↥ Back To Top</a></b>
 </div>
