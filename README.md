@@ -40,7 +40,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.dx.am-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.dx.am/)
 
 
-### 𒆜 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞 : 
+### 𒆜 <h3><b>Languages and Tools Use : </b></h3>
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
