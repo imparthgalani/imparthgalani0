@@ -1,4 +1,4 @@
-## Hello, I'm [Parth Galani!](http://parthgalani.dx.am) 👋
+## Hello, I'm [Parth Galani!](http://parthgalani.me) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="iamparthgalani" /> </p>
 
@@ -37,7 +37,7 @@
 [![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/iamparthgalani)
 [![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
-[![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.dx.am-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.dx.am/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
 
 
 ### <h3><b>𒆜 Languages and Tools Use : </b></h3>
