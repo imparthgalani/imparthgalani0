@@ -1,5 +1,7 @@
 ## Hello, I'm [Parth Galani!](http://parthgalani.me) 👋
 
+![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="iamparthgalani" /> </p>
 
 <a href="https://twitter.com/parthGalani2">
