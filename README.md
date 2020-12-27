@@ -2,7 +2,7 @@
 
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="iamparthgalani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
 <a href="https://twitter.com/parthGalani2">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/imthepg">
   <img align="left" alt="Parth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iamparthgalani">
+<a href="https://github.com/imparthgalani">
   <img align="left" alt="Parth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/parth_galani13/">
@@ -36,7 +36,7 @@
 
 
 
-[![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/iamparthgalani)
+[![GitHub iamparthgalani](https://img.shields.io/github/followers/iamparthgalani?label=follow&style=social)](https://github.com/imparthgalani)
 [![Linkedin: imthepg](https://img.shields.io/badge/-imthepg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepg/)](https://www.linkedin.com/in/imthepg/)
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
@@ -60,10 +60,10 @@
 
 
 <a href="https://github.com/iamparthgalani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparthgalani&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparthgalani&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iamparthgalani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamparthgalani&show_icons=true&theme=dark&line_height=27" alt="Parth's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=imparthgalani&show_icons=true&theme=dark&line_height=27" alt="Parth's github stats"/>
 </a>
 
 
