@@ -4,10 +4,6 @@
 
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani)  
-
 <a href="https://twitter.com/parthGalani2">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -62,6 +58,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//visual-studio-code//visual-studio-code.png"></code>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani)  
 
 <a href="https://github.com/iamparthgalani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparthgalani&theme=dark&hide_langs_below=1" />
