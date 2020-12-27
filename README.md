@@ -4,9 +4,9 @@
 
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imparthgalani)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani)  
 
 <a href="https://twitter.com/parthGalani2">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
