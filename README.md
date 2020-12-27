@@ -1,6 +1,6 @@
 ## Hello, I'm [Parth Galani!](http://parthgalani.me) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="iamparthgalani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="iamparthgalani" /> </p>
 
 <a href="https://twitter.com/parthGalani2">
   <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
