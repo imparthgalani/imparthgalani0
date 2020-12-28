@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
 - 📲 I’m currently learning android App Design & Development also Web Development.
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.python`,  `.svg`, `.vscode`, `.github`, `.java`, `.android studio`
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.python`,  `.svg`, `.vscode`, `.github`, `.java`, `.android studio`
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
