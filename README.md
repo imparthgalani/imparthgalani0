@@ -4,29 +4,7 @@
 
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
 
-<a href="https://twitter.com/parthGalani2">
-  <img align="left" alt="Parth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/imparthgalani">
-  <img align="left" alt="Parth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/imparthgalani">
-  <img align="left" alt="Parth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/parth_galani13/">
-  <img align="left" alt="Parth's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/parth.galani.50/">
-  <img align="left" alt="Parth's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g/">
-  <img align="left" alt="Parth's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<br/>
-<br/>
-
-  <a href="https://procodingpg.live/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<a href="https://procodingpg.live/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
 - 📲 I’m currently learning Mobile Application Design & development also Software development with C#.
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
