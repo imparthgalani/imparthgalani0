@@ -31,7 +31,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://www.w3schools.com/css/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://www.w3schools.com/sass/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.w3schools.com/js/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://www.w3schools.com/nodejs/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/en/docs/guides/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.w3schools.com/python/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://www.w3schools.com/react/)
