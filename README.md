@@ -9,13 +9,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
 - 📲 I’m currently learning android App Design & Development also Web Development.
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.svg`, `.psd`, `.vscode`, `.github`, `.android studio`
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.python`,  `.svg`, `.vscode`, `.github`, `.java`, `.android studio`
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
 - 📫 How to reach me: [Twitter - @parthGalani2](https://twitter.com/parthGalani2) , [Youtube - @Uiex design](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 - 🤵 Pronouns: He/His
-- 🎧 Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
+- 🎧 Fun fact: I spend almost 5 hours listening to songs every day to enjoy life.
 
 
 
@@ -42,6 +42,12 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://code.visualstudio.com/)
 [![Vscode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
+
+<a href="https://procodingpg.live/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+
 ## ☄️ Github Streaks
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
@@ -65,19 +71,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=JSONBaseAdapter&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="JSONBaseAdapter" />
 </a>
 
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
-
-<<<<<<< HEAD
-=======
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
->>>>>>> 515cd681cb478abc8aafc71a3ad4454611e6a0bf
 <div align="center">
 
 ### ıllıllı⭐🌟 𝕾𝖍𝖔𝖜 𝖘𝖔𝖒𝖊 ❤️ 𝖇𝔂 𝖘𝖙𝖆𝖗𝖗𝖎𝖓𝖌 𝖘𝖔𝖒𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖗𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖎𝖊𝖘! 🌟⭐ıllıllı
