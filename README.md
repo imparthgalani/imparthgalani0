@@ -42,7 +42,6 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/imparthgalani)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
 
 ### <h3><b>𒆜 Languages and Tools Use : </b></h3>
 <br>
@@ -60,7 +59,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//visual-studio-code//visual-studio-code.png"></code>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani)  
 
 <a href="https://github.com/iamparthgalani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparthgalani&theme=dark&hide_langs_below=1" />
@@ -68,6 +66,8 @@
 <a href="https://github.com/iamparthgalani">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imparthgalani&show_icons=true&theme=dark&line_height=27" alt="Parth's github stats"/>
 </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
+
 
 
 <div align="center">
