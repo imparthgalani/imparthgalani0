@@ -41,7 +41,7 @@
 [![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=3&margin-w=15&margin-h=15)](https://github.com/imparthgalani)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&row=2&column=3)](https://github.com/imparthgalani)
 
 ### <h3><b>𒆜 Languages and Tools Use : </b></h3>
 <br>
