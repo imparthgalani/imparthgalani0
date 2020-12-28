@@ -1,4 +1,4 @@
-## Hello, I'm [Parth Galani!](http://parthgalani.me) 👋
+## नमस्ते (Namaste)🙏🏻, I'm [Parth Galani!](http://parthgalani.me) 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
