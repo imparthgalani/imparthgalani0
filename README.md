@@ -59,7 +59,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//visual-studio-code//visual-studio-code.png"></code>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani)](https://github.com/imparthgalani/github-readme-streak-stats)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -73,7 +73,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&theme=nord&column=7)](https://github.com/imparthgalani)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&theme=nord&column=7&margin-w=10)](https://github.com/imparthgalani)
 
 
 <div align="center">
