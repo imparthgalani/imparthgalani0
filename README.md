@@ -66,7 +66,6 @@
 <a href="https://github.com/iamparthgalani">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imparthgalani&show_icons=true&theme=dark&line_height=27" alt="Parth's github stats"/>
 </a>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
 
 
