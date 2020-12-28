@@ -6,7 +6,8 @@
 
 <a href="https://procodingpg.live/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
-- 📲 I’m currently learning Mobile Application Design & development also Software development with C#.
+- 📲 I’m currently learning android App Design & Development also Web Development.
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.svg`, `.psd`, `.vscode`, `.github`, `.android studio`
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
