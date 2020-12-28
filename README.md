@@ -4,7 +4,7 @@
 
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
 
-<a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/ui.png" align="right" height="250" /></a>
+<a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/ui.png" align="right" height="300" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
