@@ -41,7 +41,7 @@
 
 ## ☄️ Github Streaks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani)](https://github.com/imparthgalani/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
 
 ## &#x1f4c8; GitHub Stats
 
