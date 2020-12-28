@@ -4,7 +4,7 @@
 
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
 
-<a href="https://procodingpg.live/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/python.png" align="right" height="200" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
@@ -46,9 +46,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
 
-<a href="https://procodingpg.live/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
 ## ☄️ Github Streaks
+
+<a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/computer.png" align="right" height="200" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
 
