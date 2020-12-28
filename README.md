@@ -68,6 +68,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imparthgalani&show_icons=true&theme=dark&line_height=27" alt="Parth's github stats"/>
 </a>
 
+### 🧑‍💻  This week, I spent my time on:
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imparthgalani&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/imparthgalani/github-readme-stats)
 
 <div align="center">
 
