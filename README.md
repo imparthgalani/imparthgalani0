@@ -42,6 +42,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/imparthgalani)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
 
 ### <h3><b>𒆜 Languages and Tools Use : </b></h3>
 <br>
