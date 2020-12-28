@@ -9,13 +9,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
 - 📲 I’m currently learning android App Design & Development also Web Development.
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.svg`, `.psd`, `.vscode`, `.github`, `.android studio`
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.python`,  `.svg`, `.psd`, `.vscode`, `.github`, `.java`, `.android studio`
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
 - 📫 How to reach me: [Twitter - @parthGalani2](https://twitter.com/parthGalani2) , [Youtube - @Uiex design](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 - 🤵 Pronouns: He/His
-- 🎧 Fun fact: I spend almost 5 hours listening to songs & See Movies every day to enjoy life in rest time.
+- 🎧 Fun fact: I spend almost 5 hours listening to songs every day to enjoy life.
 
 
 
@@ -70,14 +70,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
 
-<<<<<<< HEAD
-=======
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
->>>>>>> 515cd681cb478abc8aafc71a3ad4454611e6a0bf
 <div align="center">
 
 ### ıllıllı⭐🌟 𝕾𝖍𝖔𝖜 𝖘𝖔𝖒𝖊 ❤️ 𝖇𝔂 𝖘𝖙𝖆𝖗𝖗𝖎𝖓𝖌 𝖘𝖔𝖒𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖗𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖎𝖊𝖘! 🌟⭐ıllıllı
