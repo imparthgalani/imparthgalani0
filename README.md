@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
 - 📲 I’m currently learning android App Design & Development also Web Development.
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.php`, `.python`,  `.svg`, `.psd`, `.vscode`, `.github`, `.java`, `.android studio`
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.python`,  `.svg`, `.vscode`, `.github`, `.java`, `.android studio`
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
@@ -42,6 +42,12 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://code.visualstudio.com/)
 [![Vscode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
+
+<a href="https://procodingpg.live/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+
 ## ☄️ Github Streaks
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
@@ -64,12 +70,6 @@
 <a href="https://github.com/imparthgalani/JSONBaseAdapter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=JSONBaseAdapter&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="JSONBaseAdapter" />
 </a>
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
-
 
 <div align="center">
 
