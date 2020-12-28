@@ -73,8 +73,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&theme=nord&column=7&margin-w=10)](https://github.com/imparthgalani)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
 
 <div align="center">
 
