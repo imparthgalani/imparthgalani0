@@ -73,8 +73,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imparthgalani)](https://github.com/imparthgalani/github-readme-stats)
-
 <div align="center">
 
 ### ıllıllı⭐🌟 𝕾𝖍𝖔𝖜 𝖘𝖔𝖒𝖊 ❤️ 𝖇𝔂 𝖘𝖙𝖆𝖗𝖗𝖎𝖓𝖌 𝖘𝖔𝖒𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖗𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖎𝖊𝖘! 🌟⭐ıllıllı
