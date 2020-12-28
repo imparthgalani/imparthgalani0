@@ -70,7 +70,7 @@
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imparthgalani&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/imparthgalani/github-readme-stats)
+[![imparthgalani wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imparthgalani&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/imparthgalani/github-readme-stats)
 
 <div align="center">
 
