@@ -20,6 +20,7 @@
 
 
 [![GitHub imparthgalani](https://img.shields.io/github/followers/imparthgalani?label=follow&style=social)](https://github.com/imparthgalani)
+[![Linkedin imparthgalani](https://img.shields.io/linkedin/followers/imparthgalani?label=follow&style=social)](https://linkedin.com/imparthgalani)
 [![Linkedin: imparthgalani](https://img.shields.io/badge/-imparthgalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
 [![Twitter: imparthgalani](https://img.shields.io/twitter/follow/imparthgalani?style=social)](https://twitter.com/imparthgalani)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
