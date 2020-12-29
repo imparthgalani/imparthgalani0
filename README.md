@@ -13,7 +13,7 @@
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
 - 🤔 I’m looking for help with UI Design.
 - 💬 Ask me about UI Design or any Design tools related stuff.
-- 📫 How to reach me: [Twitter - @parthGalani2](https://twitter.com/parthGalani2) , [Youtube - @Uiex design](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
+- 📫 How to reach me: [Twitter - @parthGalani2](https://twitter.com/parthGalani2) , [Youtube - @Procoding PG](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 - 🤵 Pronouns: He/His
 - 🎧 Fun fact: I spend almost 5 hours listening to songs every day to enjoy life.
 
@@ -21,7 +21,7 @@
 
 [![GitHub imparthgalani](https://img.shields.io/github/followers/imparthgalani?label=follow&style=social)](https://github.com/imparthgalani)
 [![Linkedin: imparthgalani](https://img.shields.io/badge/-imparthgalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
-[![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/parthGalani2)
+[![Twitter: parthGalani2](https://img.shields.io/twitter/follow/parthGalani2?style=social)](https://twitter.com/imparthgalani)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
 
 
