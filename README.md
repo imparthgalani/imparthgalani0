@@ -72,48 +72,35 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=JSONBaseAdapter&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="JSONBaseAdapter" />
 </a>
 
-## 📊 This Week I Spent My Time On
 
-<!--START_SECTION:waka-->
-```text
-YAML       12 mins         ████████████████████░░░░░   79.90 % 
-Markdown   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-```
-<!--END_SECTION:waka-->
 
 <! - START_SECTION: waka ->
 
 ** I'm a Night 🦉 ** 
 
+
 📅 ** I am the most productive Sunday ** 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 📊 ** This week I'm spending my time ** 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ⌚︎ time zone: Asia / Gujarat
 
 💬 Programming languages: 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 🔥 Code editors: 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 🐱‍💻 projects: 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 💻 operating system: 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ** I code mainly in Vue ** 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <! - END_SECTION: waka ->
 
