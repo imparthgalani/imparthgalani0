@@ -72,20 +72,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=JSONBaseAdapter&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="JSONBaseAdapter" />
 </a>
 
+## 📊 This Week I Spent My Time On
 
-
-
-<! - START_SECTION: waka ->
-
-** I'm a Night 🦉 ** 
 <!--START_SECTION:waka-->
-```text
-YAML       12 mins         ████████████████████░░░░░   79.90 % 
-Markdown   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-```
 <!--END_SECTION:waka-->
 
-<! - END_SECTION: waka ->
 
 <div align="center">
 
