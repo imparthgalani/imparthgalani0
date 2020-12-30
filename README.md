@@ -74,37 +74,17 @@
 
 
 
-<<<<<<< HEAD
+
 <! - START_SECTION: waka ->
 
 ** I'm a Night 🦉 ** 
+<!--START_SECTION:waka-->
+```text
+YAML       12 mins         ████████████████████░░░░░   79.90 % 
+Markdown   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+```
+<!--END_SECTION:waka-->
 
-
-📅 ** I am the most productive Sunday ** 
-
-
-📊 ** This week I'm spending my time ** 
-
-
-⌚︎ time zone: Asia / Gujarat
-
-💬 Programming languages: 
-
-
-🔥 Code editors: 
-
-
-🐱‍💻 projects: 
-
-
-💻 operating system: 
-
-
-** I code mainly in Vue ** 
-
-
-=======
->>>>>>> edd9971e1ea64a2e91506a7ba8c4edc110505daa
 <! - END_SECTION: waka ->
 
 <div align="center">
