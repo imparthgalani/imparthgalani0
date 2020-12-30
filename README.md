@@ -42,6 +42,24 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://lab.github.com/)
 [![Vscode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [Happy new year status 2020 |  happy new years 2020](https://www.youtube.com/watch?v=uwaKT6EPKPQ)
+- [Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=1ZsC7OdDun0)
+- [Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=GloXzFAs7Xc)
+- [Packet Tracer Enable Password & Encryption & Change HostName](https://www.youtube.com/watch?v=t9D5-p0U01k)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How to create simple calculator using HTML  СSS  &  jQuery](https://www.procodingpg.live/2020/12/How-to-create-simple-calculator-using-javascript.html)
+- [Simple CSS Responsive Cards Design among Hover Effect](https://www.procodingpg.live/2020/12/simple-css-responsive-cards-design.html)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://www.procodingpg.live)
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imparthgalani&column=7&margin-w=10)](https://github.com/imparthgalani)
@@ -81,19 +99,7 @@ Markdown   2 mins          ███▓░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Happy new year status 2020 |  happy new years 2020](https://www.youtube.com/watch?v=uwaKT6EPKPQ)
-- [Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=1ZsC7OdDun0)
-- [Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=GloXzFAs7Xc)
-- [Packet Tracer Enable Password & Encryption & Change HostName](https://www.youtube.com/watch?v=t9D5-p0U01k)
-<!-- YOUTUBE:END -->
 
-## ⚡Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How to create simple calculator using HTML  СSS  &  jQuery](https://www.procodingpg.live/2020/12/How-to-create-simple-calculator-using-javascript.html)
-- [Simple CSS Responsive Cards Design among Hover Effect](https://www.procodingpg.live/2020/12/simple-css-responsive-cards-design.html)
-<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
