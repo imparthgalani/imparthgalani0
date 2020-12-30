@@ -81,6 +81,10 @@ Markdown   2 mins          ███▓░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 
 <div align="center">
 
