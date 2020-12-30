@@ -81,6 +81,42 @@ Markdown   2 mins          ███▓░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+<! - START_SECTION: waka ->
+
+** I'm a Night 🦉 ** 
+
+📅 ** I am the most productive Sunday ** 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+📊 ** This week I'm spending my time ** 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+⌚︎ time zone: Asia / Gujarat
+
+💬 Programming languages: 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+🔥 Code editors: 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+🐱‍💻 projects: 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+💻 operating system: 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+** I code mainly in Vue ** 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<! - END_SECTION: waka ->
+
 <div align="center">
 
 ### ıllıllı⭐🌟 𝕾𝖍𝖔𝖜 𝖘𝖔𝖒𝖊 ❤️ 𝖇𝔂 𝖘𝖙𝖆𝖗𝖗𝖎𝖓𝖌 𝖘𝖔𝖒𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖗𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖎𝖊𝖘! 🌟⭐ıllıllı
