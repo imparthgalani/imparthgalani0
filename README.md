@@ -89,6 +89,10 @@ Markdown   2 mins          ███▓░░░░░░░░░░░░░�
 - [Packet Tracer Enable Password & Encryption & Change HostName](https://www.youtube.com/watch?v=t9D5-p0U01k)
 <!-- YOUTUBE:END -->
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
 
