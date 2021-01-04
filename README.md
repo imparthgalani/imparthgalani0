@@ -27,7 +27,7 @@
   <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/youtube.svg" />
 </a>
 <a href="https://www.procodingpg.live">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/domain.svg" />
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/web.svg" />
 </a>
 
 <br/>
