@@ -22,24 +22,24 @@
 [![GitHub followers](https://img.shields.io/github/followers/imparthgalani?label=FOLLOW%20%40IMPARTHGALANI&logo=GITHUB&style=flat-square)](https://github.com/imparthgalani)
 [![Linkedin: imparthgalani](https://img.shields.io/badge/-IMPARTHGALANI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
 [![Mail Badge](https://img.shields.io/badge/-IMPARTHGALANI-e84393?style=flat-square&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/imparthgalani) 
-[![Website](https://img.shields.io/website?label=PORTFOLIO%20WEBSITE&logo=google-chrome&style=flat-square&up_message=UP&url=http%3A%2F%2Fparthgalani.me%2F)](http://parthgalani.me/)
+[![Website](https://img.shields.io/website?label=PORTFOLIO%20WEBSITE&logo=google-chrome&style=flat-square&up_message=PARTHGALANI.ME&url=http%3A%2F%2Fparthgalani.me%2F)](http://parthgalani.me/)
 
 
 ## 🔧 Technologies & Tools
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3schools.com/css/)
-[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://www.w3schools.com/sass/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.w3schools.com/js/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org/en/docs/guides/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://www.w3schools.com/python/)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://www.w3schools.com/sass/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://www.w3schools.com/react/)
 [![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)](https://www.w3schools.com/java/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)](https://www.w3schools.com/cpp/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.tutorialspoint.com/mongodb/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://www.w3schools.com/python/)
+[![C++](https://img.shields.io/badge/- C++-00599C?style=flat&logo=c)](https://www.w3schools.com/cpp/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://lab.github.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.tutorialspoint.com/mongodb/)
 [![Vscode](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 📺 Latest YouTube Videos
