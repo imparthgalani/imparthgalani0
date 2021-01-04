@@ -20,9 +20,9 @@
 [![Website](https://img.shields.io/website?label=PROCODINGPG.LIVE&logo=google-chrome&style=flat-square&up_message=UP&url=https%3A%2F%2Fprocodingpg.live%2F)](https://procodingpg.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imparthgalani?color=55acee&label=FOLLOW%20%40IMPARTHGALANI&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimparthgalani&screen_name=imparthgalani)
 [![GitHub followers](https://img.shields.io/github/followers/imparthgalani?label=FOLLOW%20%40IMPARTHGALANI&logo=GITHUB&style=flat-square)](https://github.com/imparthgalani)
-[![Website](https://img.shields.io/website?down_message=Parth%20Off-line&label=portfolio%20website&style=flat-square&up_message=parthgalani.me&url=https%3A%2F%2Fwww.parthgalani.me%2F)](https://parthgalani.me)
-[![Linkedin: imparthgalani](https://img.shields.io/badge/-imparthgalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
+[![Linkedin: imparthgalani](https://img.shields.io/badge/-IMPARTHGALANI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
+[![Instagram: imparthgalani](https://img.shields.io/badge/-IMPARTHGALANI?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/imparthgalani) 
+[![Website](https://img.shields.io/website?label=PORTFOLIO%20WEBSITE&logo=google-chrome&style=flat-square&up_message=UP&url=http%3A%2F%2Fparthgalani.me%2F)](http://parthgalani.me/)
 
 
 ## 🔧 Technologies & Tools
