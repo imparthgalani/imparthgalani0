@@ -17,11 +17,11 @@
 - 🤵 Pronouns: He/His
 - 🎧 Fun fact: I spend almost 5 hours listening to songs every day to enjoy life.
 
-[![Website](https://img.shields.io/website?label=procodingpg.live&style=flat&url=https%3A%2F%2Fprocodingpg.live)](https://procodingpg.live)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imparthgalani?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimparthgalani&screen_name=imparthgalani)
-[![GitHub followers](https://img.shields.io/github/followers/imparthgalani?label=Follow%20%40imparthgalani&logo=github&style=flat)](https://github.com/imparthgalani)
-[![Website](https://img.shields.io/website?down_message=Parth%20Off-line&label=portfolio%20website&style=flat&up_message=parthgalani.me&url=https%3A%2F%2Fwww.parthgalani.me%2F)](https://parthgalani.me)
-[![Linkedin: imparthgalani](https://img.shields.io/badge/-imparthgalani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
+[![Website](https://img.shields.io/website?label=PROCODINGPG.LIVE&logo=google-chrome&style=flat-square&up_message=UP&url=https%3A%2F%2Fprocodingpg.live%2F)](https://procodingpg.live)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imparthgalani?color=55acee&label=FOLLOW%20%40IMPARTHGALANI&logo=Twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimparthgalani&screen_name=imparthgalani)
+[![GitHub followers](https://img.shields.io/github/followers/imparthgalani?label=FOLLOW%20%40IMPARTHGALANI&logo=GITHUB&style=flat-square)](https://github.com/imparthgalani)
+[![Website](https://img.shields.io/website?down_message=Parth%20Off-line&label=portfolio%20website&style=flat-square&up_message=parthgalani.me&url=https%3A%2F%2Fwww.parthgalani.me%2F)](https://parthgalani.me)
+[![Linkedin: imparthgalani](https://img.shields.io/badge/-imparthgalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
 [![website](https://img.shields.io/badge/PortfolioWebsite-parthgalani.me-2648ff?style=flat-square&logo=google-chrome)](http://parthgalani.me/)
 
 
@@ -30,17 +30,17 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.w3schools.com/css/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://www.w3schools.com/sass/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.w3schools.com/js/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/en/docs/guides/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.w3schools.com/python/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://www.w3schools.com/react/)
-[![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)](https://www.w3schools.com/java/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)](https://www.w3schools.com/cpp/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://www.tutorialspoint.com/mongodb/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://lab.github.com/)
-[![Vscode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.w3schools.com/js/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://nodejs.org/en/docs/guides/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://www.w3schools.com/python/)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://www.w3schools.com/react/)
+[![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)](https://www.w3schools.com/java/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)](https://www.w3schools.com/cpp/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.tutorialspoint.com/mongodb/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://lab.github.com/)
+[![Vscode](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
