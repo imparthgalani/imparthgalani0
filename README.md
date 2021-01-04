@@ -6,6 +6,22 @@
 
 <a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/python.png" align="right" height="250" /></a>
 
+<a href="https://twitter.com/imparthgalani">
+  <img align="left" alt="Parth Galani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/imparthgalani/">
+  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.github.com/imparthgalani/">
+  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+<a href="https://www.facebook.com/parth.galani.50/">
+  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g">
+  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
 - 📲 I’m currently learning android App Design & Development also Web Development.
