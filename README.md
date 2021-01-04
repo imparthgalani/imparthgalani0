@@ -9,19 +9,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
 <a href="https://twitter.com/imparthgalani">
-  <img align="left" alt="Parth Galani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Parth Galani | Twitter" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/imparthgalani/">
-  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/linkedin.svg" />
 </a>
-<a href="https://www.github.com/imparthgalani/">
-  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+<a href="https://join.skype.com/invite/WTNE3X0M7eGz">
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/skype.svg" />
 </a>
 <a href="https://www.facebook.com/parth.galani.50/">
   <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/facebook.svg" />
 </a>
+<a href="https://instagram.com/imparthgalani">
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/instagram.svg" />
+</a>
 <a href="https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g">
-  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/youtube.svg" />
+</a>
+<a href="https://www.procodingpg.live">
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/domain.svg" />
 </a>
 
 <br/>
