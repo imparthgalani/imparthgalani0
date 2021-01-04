@@ -19,7 +19,7 @@
 
 [![Website](https://img.shields.io/website?label=procodingpg.live&style=for-the-badge&url=https%3A%2F%2Fprocodingpg.live)](https://procodingpg.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imparthgalani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimparthgalani&screen_name=imparthgalani)
-[![GitHub followers](https://img.shields.io/github/followers/imparthgalani?label=Follow%20%40imparthgalani&logo=imparthgalani&style=for-the-badge)](https://github.com/imparthgalani)
+[![GitHub followers](https://img.shields.io/github/followers/imparthgalani?label=Follow%20%40imparthgalani&logo=github&style=for-the-badge)](https://github.com/imparthgalani)
 
 [![GitHub imparthgalani](https://img.shields.io/github/followers/imparthgalani?label=follow&style=social)](https://github.com/imparthgalani)
 [![Linkedin: imparthgalani](https://img.shields.io/badge/-imparthgalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
