@@ -36,7 +36,7 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://www.w3schools.com/react/)
 [![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)](https://www.w3schools.com/java/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://www.w3schools.com/python/)
-[![C++](https://img.shields.io/badge/- C++-00599C?style=flat&logo=c)](https://www.w3schools.com/cpp/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++)](https://www.w3schools.com/cpp/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://lab.github.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)](https://www.tutorialspoint.com/mongodb/)
