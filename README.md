@@ -18,7 +18,7 @@
   <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="https://www.facebook.com/parth.galani.50/">
-  <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g">
   <img align="left" alt="Parth Galani" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
