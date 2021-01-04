@@ -29,6 +29,9 @@
 <a href="https://www.procodingpg.live">
   <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/web.svg" />
 </a>
+<a href="mailto:pgalani193@rku.ac.in">
+  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/gmail.svg" />
+</a>
 
 <br/>
 <br/>
