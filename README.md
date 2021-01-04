@@ -17,6 +17,8 @@
 - 🤵 Pronouns: He/His
 - 🎧 Fun fact: I spend almost 5 hours listening to songs every day to enjoy life.
 
+[![Website](https://img.shields.io/website?label=procodingpg.live&style=for-the-badge&url=https%3A%2F%2Fprocodingpg.live)](https://procodingpg.live)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imparthgalani?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimparthgalani&screen_name=imparthgalani)
 
 
 [![GitHub imparthgalani](https://img.shields.io/github/followers/imparthgalani?label=follow&style=social)](https://github.com/imparthgalani)
