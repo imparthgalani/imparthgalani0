@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/imparthgalani/">
   <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/linkedin.svg" />
 </a>
-<a href="https://join.skype.com/invite/WTNE3X0M7eGz">
+<a href="https://join.skype.com/invite/U6cHp5eJheGc">
   <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/skype.svg" />
 </a>
 <a href="https://www.facebook.com/parth.galani.50/">
