@@ -52,8 +52,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/imparthgalani?label=FOLLOW%20%40IMPARTHGALANI&logo=GITHUB&style=flat-square)](https://github.com/imparthgalani)
 [![Linkedin: imparthgalani](https://img.shields.io/badge/-IMPARTHGALANI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imparthgalani/)](https://www.linkedin.com/in/imparthgalani/)
 [![Mail Badge](https://img.shields.io/badge/-IMPARTHGALANI-e84393?style=flat-square&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/imparthgalani) 
-[![Website](https://img.shields.io/website?label=PORTFOLIO%20WEBSITE&logo=google-chrome&style=flat-square&up_message=PARTHGALANI.GITHUB.IO&url=https%3A%2F%2Fparthgalani.github.io%2F)](https://imparthgalani.github.io/)
-
+[![Website](https://img.shields.io/website?label=PARTHGALANI.GITHUB.IO&logo=google-chrome&style=flat-square&up_message=UP&url=https%3A%2F%2Fimparthgalani.github.io%2F)](https://imparthgalani.github.io/)
 
 ## 🔧 Technologies & Tools
 
