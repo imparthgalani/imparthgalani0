@@ -33,7 +33,7 @@
   <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/gmail.svg" />
 </a>
 <a href="https://my.indeed.com/p/parthg-zemn2n7">
-  <img align="left" alt="Parth Galani" width="80px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/indeed-logo.svg" />
+  <img align="left" alt="Parth Galani" width="90px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/indeed-logo.svg" />
 </a>
 
 <br/>
