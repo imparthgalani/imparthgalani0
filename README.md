@@ -127,8 +127,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML   6 hrs 40 mins   ███████████████████████▓░   94.15 % 
-Java   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+
 ```
 <!--END_SECTION:waka-->
 
