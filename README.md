@@ -123,7 +123,7 @@
 <a href="https://github.com/imparthgalani/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=TicTacToe&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="TicTacToe" />
 </a>
-
+<br>
 <a href="https://github.com/imparthgalani/Python_Employee_Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=Python_Employee_Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_Employee_Project" />
 </a>
