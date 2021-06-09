@@ -8,32 +8,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
+<a href="https://unsplash.com/@imparthgalani">
+  <img align="left" alt="Parth Galani | unsplash" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/unsplash.png" />
+</a>
 <a href="https://twitter.com/imparthgalani">
   <img align="left" alt="Parth Galani | Twitter" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/imparthgalani/">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/linkedin.svg" />
+  <img align="left" alt="Parth Galani | Linkedin" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/linkedin.svg" />
 </a>
 <a href="https://my.indeed.com/p/parthg-zemn2n7">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/indeed.jpg" />
+  <img align="left" alt="Parth Galani | Indeed" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/indeed.jpg" />
 </a>
 <a href="https://join.skype.com/invite/U6cHp5eJheGc">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/skype.svg" />
+  <img align="left" alt="Parth Galani | Skype" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/skype.svg" />
 </a>
 <a href="https://www.facebook.com/parth.galani.50/">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/facebook.svg" />
+  <img align="left" alt="Parth Galani | Facebook" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/facebook.svg" />
 </a>
 <a href="https://instagram.com/imparthgalani">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/instagram.svg" />
+  <img align="left" alt="Parth Galani | Instagram" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/youtube.svg" />
+  <img align="left" alt="Parth Galani | YouTube" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/youtube.svg" />
 </a>
 <a href="https://www.procodingpg.live">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/web.svg" />
+  <img align="left" alt="Parth Galani | Web" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/web.svg" />
 </a>
 <a href="mailto:pgalani193@rku.ac.in">
-  <img align="left" alt="Parth Galani" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/gmail.svg" />
+  <img align="left" alt="Parth Galani | Gmail" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/gmail.svg" />
 </a>
 
 <br/>
