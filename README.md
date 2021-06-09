@@ -8,9 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 
-<a href="https://unsplash.com/@imparthgalani">
-  <img align="left" alt="Parth Galani | unsplash" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/unsplash.png" />
-</a>
 <a href="https://twitter.com/imparthgalani">
   <img align="left" alt="Parth Galani | Twitter" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/twitter.svg" />
 </a>
@@ -34,6 +31,9 @@
 </a>
 <a href="https://www.procodingpg.live">
   <img align="left" alt="Parth Galani | Web" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/web.svg" />
+</a>
+<a href="https://unsplash.com/@imparthgalani">
+  <img align="left" alt="Parth Galani | unsplash" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/unsplash.png" />
 </a>
 <a href="mailto:pgalani193@rku.ac.in">
   <img align="left" alt="Parth Galani | Gmail" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/gmail.svg" />
