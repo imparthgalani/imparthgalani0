@@ -139,7 +139,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML    1 min           █████████████░░░░░░░░░░░░   52.55 % 
+Other   1 min           ████████████░░░░░░░░░░░░░   47.45 % 
 ```
 <!--END_SECTION:waka-->
 
