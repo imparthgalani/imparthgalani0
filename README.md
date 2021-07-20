@@ -78,13 +78,19 @@
 [![Vscode](https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-[![Campfire At Night](id=8yvxXybDlE4)](https://www.youtube.com/watch?v=8yvxXybDlE4 "Campfire At Night")
-[![Tic Tac Toe Game | TIC TAC TOE - Best Game Ever](id=ROG6HvEMd60)](https://www.youtube.com/watch?v=ROG6HvEMd60 "Tic Tac Toe Game | TIC TAC TOE - Best Game Ever")
-[![Happy new year status 2020 |  happy new years 2020](id=uwaKT6EPKPQ)](https://www.youtube.com/watch?v=uwaKT6EPKPQ "Happy new year status 2020 |  happy new years 2020")
-[![Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](id=1ZsC7OdDun0)](https://www.youtube.com/watch?v=1ZsC7OdDun0 "Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
-[![Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](id=GloXzFAs7Xc)](https://www.youtube.com/watch?v=GloXzFAs7Xc "Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
-[![Packet Tracer Enable Password & Encryption & Change HostName](id=t9D5-p0U01k)](https://www.youtube.com/watch?v=t9D5-p0U01k "Packet Tracer Enable Password & Encryption & Change HostName")<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=8yvxXybDlE4"><img width="140px" src="https://i.ytimg.com/vi/8yvxXybDlE4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8yvxXybDlE4">Campfire At Night</a><br/>Wed Apr 21 2021 1:40 PM</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ROG6HvEMd60"><img width="140px" src="https://i.ytimg.com/vi/ROG6HvEMd60/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ROG6HvEMd60">Tic Tac Toe Game | TIC TAC TOE - Best Game Ever</a><br/>Sat Jan 09 2021 3:03 AM</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=uwaKT6EPKPQ"><img width="140px" src="https://i.ytimg.com/vi/uwaKT6EPKPQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uwaKT6EPKPQ">Happy new year status 2020 |  happy new years 2020</a><br/>Mon Nov 16 2020 12:23 AM</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=1ZsC7OdDun0"><img width="140px" src="https://i.ytimg.com/vi/1ZsC7OdDun0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1ZsC7OdDun0">Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design</a><br/>Sat Jul 25 2020 6:12 AM</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=GloXzFAs7Xc"><img width="140px" src="https://i.ytimg.com/vi/GloXzFAs7Xc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GloXzFAs7Xc">Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design</a><br/>Thu Jul 16 2020 8:46 AM</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=t9D5-p0U01k"><img width="140px" src="https://i.ytimg.com/vi/t9D5-p0U01k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t9D5-p0U01k">Packet Tracer Enable Password & Encryption & Change HostName</a><br/>Wed Jul 15 2020 12:08 PM</td></tr>
+<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 
