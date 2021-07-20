@@ -79,12 +79,12 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-[![Campfire At Night](https://freshidea.com/jonah/app/youtube-card/?id=8yvxXybDlE4)](https://www.youtube.com/watch?v=8yvxXybDlE4 "Campfire At Night")
-[![Tic Tac Toe Game | TIC TAC TOE - Best Game Ever](https://freshidea.com/jonah/app/youtube-card/?id=ROG6HvEMd60)](https://www.youtube.com/watch?v=ROG6HvEMd60 "Tic Tac Toe Game | TIC TAC TOE - Best Game Ever")
-[![Happy new year status 2020 |  happy new years 2020](https://freshidea.com/jonah/app/youtube-card/?id=uwaKT6EPKPQ)](https://www.youtube.com/watch?v=uwaKT6EPKPQ "Happy new year status 2020 |  happy new years 2020")
-[![Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://freshidea.com/jonah/app/youtube-card/?id=1ZsC7OdDun0)](https://www.youtube.com/watch?v=1ZsC7OdDun0 "Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
-[![Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://freshidea.com/jonah/app/youtube-card/?id=GloXzFAs7Xc)](https://www.youtube.com/watch?v=GloXzFAs7Xc "Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
-[![Packet Tracer Enable Password & Encryption & Change HostName](https://freshidea.com/jonah/app/youtube-card/?id=t9D5-p0U01k)](https://www.youtube.com/watch?v=t9D5-p0U01k "Packet Tracer Enable Password & Encryption & Change HostName")<!-- YOUTUBE:END -->
+[![Campfire At Night](id=8yvxXybDlE4)](https://www.youtube.com/watch?v=8yvxXybDlE4 "Campfire At Night")
+[![Tic Tac Toe Game | TIC TAC TOE - Best Game Ever](id=ROG6HvEMd60)](https://www.youtube.com/watch?v=ROG6HvEMd60 "Tic Tac Toe Game | TIC TAC TOE - Best Game Ever")
+[![Happy new year status 2020 |  happy new years 2020](id=uwaKT6EPKPQ)](https://www.youtube.com/watch?v=uwaKT6EPKPQ "Happy new year status 2020 |  happy new years 2020")
+[![Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](id=1ZsC7OdDun0)](https://www.youtube.com/watch?v=1ZsC7OdDun0 "Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
+[![Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](id=GloXzFAs7Xc)](https://www.youtube.com/watch?v=GloXzFAs7Xc "Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
+[![Packet Tracer Enable Password & Encryption & Change HostName](id=t9D5-p0U01k)](https://www.youtube.com/watch?v=t9D5-p0U01k "Packet Tracer Enable Password & Encryption & Change HostName")<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 
