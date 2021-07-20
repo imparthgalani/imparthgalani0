@@ -3,13 +3,12 @@
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
 </p>
 
-<a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/python.png" align="right" height="250" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imparthgalani&label=Profile View's&color=blueviolet&style=plastic" alt="imparthgalani" /> </p>
+---
 
 <a href="https://twitter.com/imparthgalani">
   <img align="left" alt="Parth Galani | Twitter" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/twitter.svg" />
@@ -53,6 +52,8 @@
 - 📫 How to reach me: [Twitter - @imparthgalani](https://twitter.com/imparthgalani) , [Youtube - @Procoding PG](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 - 🤵 Pronouns: He/His
 - 🎧 Fun fact: I spend almost 5 hours listening to songs every day to enjoy life.
+
+---
 
 ## 📫 Reach me out!
 
