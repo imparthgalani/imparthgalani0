@@ -79,12 +79,13 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-[![Campfire At Night](https://www.youtube.com/watch?v=8yvxXybDlE4/?id=8yvxXybDlE4)](https://www.youtube.com/watch?v=8yvxXybDlE4 "Campfire At Night")
-[![Tic Tac Toe Game | TIC TAC TOE - Best Game Ever](https://www.youtube.com/watch?v=ROG6HvEMd60/?id=ROG6HvEMd60)](https://www.youtube.com/watch?v=ROG6HvEMd60 "Tic Tac Toe Game | TIC TAC TOE - Best Game Ever")
-[![Happy new year status 2020 |  happy new years 2020](https://www.youtube.com/watch?v=uwaKT6EPKPQ/?id=uwaKT6EPKPQ)](https://www.youtube.com/watch?v=uwaKT6EPKPQ "Happy new year status 2020 |  happy new years 2020")
-[![Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=1ZsC7OdDun0/?id=1ZsC7OdDun0)](https://www.youtube.com/watch?v=1ZsC7OdDun0 "Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
-[![Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=GloXzFAs7Xc/?id=GloXzFAs7Xc)](https://www.youtube.com/watch?v=GloXzFAs7Xc "Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design")
-[![Packet Tracer Enable Password & Encryption & Change HostName](https://www.youtube.com/watch?v=t9D5-p0U01k/?id=t9D5-p0U01k)](https://www.youtube.com/watch?v=t9D5-p0U01k "Packet Tracer Enable Password & Encryption & Change HostName")<!-- YOUTUBE:END -->
+- [Campfire At Night](https://www.youtube.com/watch?v=8yvxXybDlE4)
+- [Tic Tac Toe Game | TIC TAC TOE - Best Game Ever](https://www.youtube.com/watch?v=ROG6HvEMd60)
+- [Happy new year status 2020 |  happy new years 2020](https://www.youtube.com/watch?v=uwaKT6EPKPQ)
+- [Registration Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=1ZsC7OdDun0)
+- [Login Page UI Design 2020 | The best UI design using Android Studio | Android UI UX Design](https://www.youtube.com/watch?v=GloXzFAs7Xc)
+- [Packet Tracer Enable Password & Encryption & Change HostName](https://www.youtube.com/watch?v=t9D5-p0U01k)
+<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 
