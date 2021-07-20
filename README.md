@@ -1,8 +1,11 @@
-## नमस्ते (Namaste)🙏🏻, I'm [Parth Galani!](http://parthgalani.me) 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
-
+## नमस्ते (Namaste)🙏🏻, I'm [Parth Galani!](http://parthgalani.me) 👋 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" align="center">
 
 ![Design and Development](https://github.com/imparthgalani/imparthgalani/blob/master/img/imparthgalani.png)
+
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 <a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/python.png" align="right" height="250" /></a>
 
@@ -107,33 +110,33 @@
 
 <a href="https://procodingpg.live/"><img src="https://github.com/imparthgalani/imparthgalani/blob/master/img/computer.png" align="right" height="250" width="270" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imparthgalani&theme=dark)](https://github.com/imparthgalani/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imparthgalani&theme=react&hide_border=true&background=1F222E&stroke=DDDDDD&ring=F85D7F&currStreakLabel=F85D7F&currStreakNum=DDDDDD&sideNums=F85D7F&sideLabels=F8D866&fire=F85D7F)](https://git.io/streak-stats)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/imparthgalani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparthgalani&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imparthgalani&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
 </a>
 <a href="https://github.com/imparthgalani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=imparthgalani&show_icons=true&theme=dark&line_height=27" alt="Parth's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=imparthgalani&show_icons=true&theme=react&line_height=27&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Parth's github stats"/>
 </a>
 
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/imparthgalani/AP_MART">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=AP_MART&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="AP_MART" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=AP_MART&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AP_MART" />
 </a>
 
 <a href="https://github.com/imparthgalani/TicTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=TicTacToe&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116"  alt="TicTacToe" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=TicTacToe&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"  alt="TicTacToe" />
 </a>
 <br>
 <a href="https://github.com/imparthgalani/Python_Employee_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=Python_Employee_Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Python_Employee_Project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=Python_Employee_Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Python_Employee_Project" />
 </a>
 
 <a href="https://github.com/imparthgalani/Android-All-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=Android-All-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Android-All-Project" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imparthgalani&repo=Android-All-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Android-All-Project" />
 </a>
 
 ## 📊 This Week I Spent My Time On
