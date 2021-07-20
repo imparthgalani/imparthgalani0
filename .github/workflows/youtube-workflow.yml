@@ -17,5 +17,4 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCs8YuffktnbeZiHfPwQ2A9g"
           custom_tags: "videoId/yt:videoId/"
           max_post_count: 6
-          template: "$newline[![$title]($url/?id=$videoId)]($url \"$title\")"
-          committer_email: "pgalani193@rku.ac.in"
+       
