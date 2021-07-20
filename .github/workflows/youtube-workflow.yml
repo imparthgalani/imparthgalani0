@@ -1,8 +1,8 @@
 name: Latest YouTube Videos
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+     # Runs every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,5 +17,5 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCs8YuffktnbeZiHfPwQ2A9g"
           custom_tags: "videoId/yt:videoId/"
           max_post_count: 6
-          template: "$newline[![$title](https://freshidea.com/jonah/app/youtube-card/?id=$videoId)]($url \"$title\")"
+          template: "$newline[![$title](id=$videoId)]($url \"$title\")"
           committer_email: "pgalani193@rku.ac.in"
