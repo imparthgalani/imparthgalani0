@@ -144,8 +144,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-C          31 mins         ███████████████████████▒░   93.97 % 
-Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
