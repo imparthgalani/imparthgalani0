@@ -31,9 +31,6 @@
 <a href="https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g">
   <img align="left" alt="Parth Galani | YouTube" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/youtube.svg" />
 </a>
-<a href="https://www.procodingpg.live">
-  <img align="left" alt="Parth Galani | Web" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/web.svg" />
-</a>
 <a href="https://unsplash.com/@imparthgalani">
   <img align="left" alt="Parth Galani | unsplash" width="22px" src="https://github.com/imparthgalani/imparthgalani/blob/master/img/unsplash.png" />
 </a>
