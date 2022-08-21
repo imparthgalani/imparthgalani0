@@ -44,10 +44,10 @@
 <br/>
 <br/>
 
-- 📲 I’m currently learning android App Design & Development also Web Development.
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.React`, `.php`, `.python`,  `.svg`, `.vscode`, `.github`, `.java`, `.android studio`
+- 📲 I’m currently learning React and Node.
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.React`, `ASP .Net`, `node`,  `.svg`, `.vscode`, `.github`, `.postgresql`
 - 🎭 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g).
-- 🤔 I’m looking for help with UI Design.
+- 🤔 I’m looking for help with UI Design and Web Development.
 - 💬 Ask me about UI Design or any Design tools related stuff.
 - 📫 How to reach me: [Twitter - @imparthgalani](https://twitter.com/imparthgalani) , [Youtube - @Procoding PG](https://www.youtube.com/channel/UCs8YuffktnbeZiHfPwQ2A9g)
 - 🤵 Pronouns: He/His
